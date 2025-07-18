@@ -2,7 +2,7 @@
 
 A browser-based physics maze game where you guide rolling balls into the center using a **virtual joystick**. Navigate through the maze, avoid obstacles, and master the tilt mechanics!
 
-🔗 **[Play the Game](https://github.com/user-attachments/assets/369de212-a814-4c2d-af47-876534aff86b)**
+🔗 **[Play the Game](https://owais41111.github.io/Tilting-Maze-game/)**
 
 ---
 
